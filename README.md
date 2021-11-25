@@ -4,4 +4,6 @@ The PIC microcontroller is programmed, in assembly, to receive serial input data
 
 After having stored the data, a subroutine is called to process the stored data and generated the corresponding morse code, i.e. dots and dashes, as short and long up signals on an output port which is connected to a buzzer. 
 
+This current project is simulated on Proteus 8.6 for Windows 10. Proteus is a PSpice-based electronics design and simulation software.
+
 Morse code : https://en.wikipedia.org/wiki/Morse_code
