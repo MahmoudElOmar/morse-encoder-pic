@@ -1,0 +1,7 @@
+THE HEX FILE CONTAINS THE CODE THAT OUTPUTS "SOS" ON PIN RB0 OF PIC16F877A IN MORSE CODE WHICH IS :
+	...	---	...
+
+
+GROUPE 4 : Mahmoud EL OMAR
+	   Elie Rouphaël
+	   Hiba Awad.
